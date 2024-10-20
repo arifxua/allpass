@@ -1,1 +1,26 @@
-
+{
+  "Facebook": [
+    {
+      "username": "abc@un.com",
+      "password": "12123434"
+    },
+    {
+      "username": "abc@un.com",
+      "password": "12345678"
+    }
+  ],
+  "Instagram": [
+    {
+      "username": "@abc",
+      "password": "123456"
+    },
+    {
+      "username": "@def",
+      "password": "12345678"
+    },
+    {
+      "username": "@cba",
+      "password": "1234567900"
+    }
+  ]
+}
